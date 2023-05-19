@@ -1,0 +1,149 @@
+﻿<UserControl x:Class="QuanLyCDTP.FDKHonNhan"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d">
+    <Grid x:Name="gdangkyhn">
+        <Border Background="#eae8f3" CornerRadius="60" x:Name="BoderColor">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70"></RowDefinition>
+                    <RowDefinition Height="200"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="3"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Vertical" Grid.Row="0" Margin="0,10,0,0">
+                    <Image Source="/Source/Window/picture/Logo.png" Height="40"  HorizontalAlignment="Center"></Image>
+                    <TextBlock Text="GIẤY ĐĂNG KÝ KẾT HÔN" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Red" FontWeight="Bold" Grid.ColumnSpan="2" HorizontalAlignment="Center" />
+
+                </StackPanel>
+                <Grid Grid.Row="1"  x:Name="gdangky">
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Column ="1"  Grid.Row="1" Text="Nữ" Style="{StaticResource MenuButtonText}" Margin="5" FontSize="20" HorizontalAlignment="Center" Foreground="Red" FontWeight="Bold" Grid.ColumnSpan="2" />
+                    <Grid Grid.Column="1" Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Orientation="Horizontal">
+                            <TextBlock Text="CCCD Cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center" />
+                            <ui:InfoCard Width="100" x:Name="namecfNu"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Orientation="Horizontal">
+                            <TextBlock Text="Họ Tên Cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center"/>
+                            <ui:InfoCard Width="100" x:Name="namefNu"/>
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Column="1" Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Orientation="Horizontal">
+                            <TextBlock Text="CCCD Me:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center" />
+                            <ui:InfoCard Width="100" x:Name="namecmNu"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Orientation="Horizontal">
+                            <TextBlock Text="Họ Tên Me:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center"/>
+                            <ui:InfoCard Width="100" x:Name="namemNu"/>
+                        </StackPanel>
+                    </Grid>
+                    <TextBlock Grid.Column ="1" Grid.Row="5" Text="Hôn Nhân" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <TextBlock Grid.Column ="1" Grid.Row="6" Text="Quê Quán" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+
+                    <StackPanel Grid.Column="1" Grid.Row="2" Orientation="Horizontal">
+                        <TextBlock Text="CCCD:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                        <ui:InfoCard   MinWidth="80" Margin="5,0,20,5" x:Name="cccdNu" KeyDown="EnterKeyNu"/>
+                        <TextBlock Text="Họ Tên:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                        <ui:InfoCard MinWidth="150"  Margin="4,0,0,5" x:Name="nameNu"/>
+
+                    </StackPanel>
+                    <ui:InfoCard Grid.Column="1" Grid.Row="5" Margin="150,0,20,5" x:Name="honhanNu"/>
+                    <ui:InfoCard Grid.Column="1" Grid.Row="6" Margin="150,0,20,5" x:Name="quequanNu"/>
+
+
+
+                    <TextBlock Grid.Column="0" Grid.Row="1" Text="Nam"  Style="{StaticResource MenuButtonText}" Margin="5,5,5,0" FontSize="20" HorizontalAlignment="Center" Foreground="Red" FontWeight="Bold"/>
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Orientation="Horizontal">
+                            <TextBlock Text="CCCD Cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center" />
+                            <ui:InfoCard Width="100" x:Name="namefcnam"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Orientation="Horizontal">
+                            <TextBlock Text="Họ Tên Cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center"/>
+                            <ui:InfoCard Width="100" x:Name="namefnam" />
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Grid.Column="0" Orientation="Horizontal">
+                            <TextBlock Text="CCCD Me:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center" />
+                            <ui:InfoCard Width="100" x:Name="namecmnam"/>
+                        </StackPanel>
+                        <StackPanel Grid.Column="1" Orientation="Horizontal">
+                            <TextBlock Text="Họ Tên Me:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  VerticalAlignment="Center"/>
+                            <ui:InfoCard Width="100" x:Name="namemnam" />
+                        </StackPanel>
+                    </Grid>
+                    <TextBlock Grid.Column="0" Grid.Row="5" Text="Hôn Nhân" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <TextBlock Grid.Column="0" Grid.Row="6" Text="Quê Quán" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+
+                    <StackPanel Grid.Column="0" Grid.Row="2" Orientation="Horizontal">
+                        <TextBlock Text="CCCD:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                        <ui:InfoCard MinWidth="80" Margin="5,0,20,5" x:Name="cccdNam" KeyDown="EnterKey"/>
+                        <TextBlock Text="Họ Tên:" Margin="-15,0,20,5" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                        <ui:InfoCard MinWidth="150"  Margin="-10,0,20,5" x:Name="nameNam"/>
+
+                    </StackPanel>
+
+
+                    <ui:InfoCard Grid.Column="0" Grid.Row="5" Margin="150,0,20,5" x:Name="honnhanNam"/>
+                    <ui:InfoCard Grid.Column="0" Grid.Row="6" Margin="150,0,20,5" x:Name="quequanNam"/>
+
+                </Grid>
+                
+                <Grid Grid.Row="4">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Top" Width="309" >
+                        <Button x:Name="btnKetHon" Style="{StaticResource BottomMenuButton}"  Click="btnKetHon_Click" Content="Kết hôn" HorizontalAlignment="Right"  Width="80" Margin="0,0,0,0"/>
+                        <Button x:Name="btnLyHon" Style="{StaticResource BottomMenuButton}"   Click="btnLyHon_Click" Content="Ly hôn"  Width="80" Margin="-80,0,0,0"/>
+                        <Button x:Name="btnClearT" Style="{StaticResource BottomMenuButton}"   Click="btnClearT_Click" Content="Làm Sạch"  Width="80" Margin="12,0,0,0"/>
+                    </StackPanel>
+                </Grid>
+                <StackPanel Grid.Row="2" Grid.RowSpan="2">
+                    <local:FDangKyBoTro x:Name="FBoTro" Height="100"></local:FDangKyBoTro>
+                </StackPanel>
+            </Grid>
+
+        </Border>
+    </Grid>
+</UserControl>

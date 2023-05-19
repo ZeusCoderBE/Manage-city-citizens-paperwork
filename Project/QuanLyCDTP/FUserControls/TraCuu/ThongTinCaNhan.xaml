@@ -1,0 +1,55 @@
+﻿<UserControl x:Class="QuanLyCDTP.ThongTinCaNhan"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" x:Name="tracuu"
+            >
+    <UserControl.Resources>
+        <ResourceDictionary Source="/NguonTaiNguyen/style/UIColors.xaml"></ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!--Top Menu-->
+        <StackPanel  Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,30,0">
+            <Button Style="{StaticResource TopMenuButton}" Content="CCCD" Click="btn_cmnd_Click"></Button>
+            <Button Style="{StaticResource TopMenuButton}" Content="Hộ Khẩu" Click="btnHoKhau_Click"></Button>
+            <Button Style="{StaticResource TopMenuButton}" Content="Khai Sinh" Click="btnKhaiSinh_Click"></Button>
+            <!--<Button Style="{StaticResource TopMenuButton}" Content="KhaiSinh" Click="btn_ks_Click"></Button>-->
+        </StackPanel>
+        <!--Title Menu-->
+        <TextBlock Text="Good Afternoon" FontSize="26" Foreground="#0e25ca" HorizontalAlignment="Left" Margin="50,25,0,0"></TextBlock>
+        <TextBlock Text="Good Afternoon" FontSize="26" Foreground="#0e25ca" HorizontalAlignment="Left" Margin="50,25,0,0"></TextBlock>
+        <Separator Height="0.8" Margin="30,0,30,0" Background="#46558a" VerticalAlignment="Bottom"></Separator>
+        <Border Grid.Row="1" x:Name="boHienthi" CornerRadius="10" Margin="10,20,10,10">
+
+            <!--<Border.Background>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#a9a9fc" Offset="0"></GradientStop>
+                    <GradientStop Color="#4242f1" Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Border.Background>-->
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="1"></RowDefinition>
+                </Grid.RowDefinitions>
+                
+                
+                <Grid Grid.Row="1" Margin="0,0,0,24" Name="ThongTin">
+                </Grid>
+            </Grid>
+        </Border>
+        <Grid x:Name="gridhienthi" Visibility="Hidden" Grid.Row="1" Margin="15,30,15,10"></Grid>
+        <Grid Grid.Row="2"/>
+    </Grid>
+</UserControl>

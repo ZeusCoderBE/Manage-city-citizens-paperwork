@@ -1,0 +1,121 @@
+﻿<UserControl x:Class="QuanLyCDTP.FchangePass"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             MinHeight="400" MinWidth="800">
+    <Border>
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Đổi mật khẩu" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="28" Grid.Column="1" Foreground="{StaticResource color5}" FontWeight="Bold"></TextBlock>
+            <Grid Grid.Row="1" Margin="0,0,-23,-72">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="500"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="88"></RowDefinition>
+                    <RowDefinition Height="12"></RowDefinition>
+                    <RowDefinition Height="85"></RowDefinition>
+                    <RowDefinition Height="15"></RowDefinition>
+                    <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="0"></RowDefinition>
+                    <RowDefinition Height="60"></RowDefinition>
+                </Grid.RowDefinitions>
+                <StackPanel  Grid.Row="0" Grid.Column="1">
+                    <TextBlock Text="Mật khẩu cũ" VerticalAlignment="Center" FontSize="18" Foreground="{StaticResource color3}" Margin="20,0,0,0"></TextBlock>
+
+                    <PasswordBox Grid.Row="1"  Grid.Column="1" x:Name="password"  
+                    FontSize="18"
+                         Height="50"
+                           Width="500"
+                           Background="WhiteSmoke"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}" 
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Margin="20,0,0,0"></PasswordBox>
+                    <TextBox  Margin="12,-50,4,39" Visibility="Hidden" x:Name="showpass"
+                             FontSize="18"
+                             Height="50"
+                             Width="500"
+                            Background="WhiteSmoke"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}" 
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}">
+                    </TextBox>
+                </StackPanel>
+                <StackPanel  Grid.Column="1" Grid.Row="2">
+
+                    <TextBlock Text="Mật khẩu mới " VerticalAlignment="Center" FontSize="18" Foreground="{StaticResource color3}" Margin="20,0,0,0" Height="24"></TextBlock>
+
+                    <PasswordBox Grid.Row="3"  Grid.Column="1" x:Name="newpass" 
+                    FontSize="18"
+                           Width="492"
+                           Background="WhiteSmoke"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}" 
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Margin="20,5,0,5" Grid.ColumnSpan="2" Height="52"/>
+                    <TextBox  Margin="12,-55,4,39" Visibility="Hidden"  x:Name="Shownewpass"
+                             FontSize="18"
+                             Height="50"
+                             Width="500"
+                             Background="WhiteSmoke"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}" 
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}">
+                    </TextBox>
+                </StackPanel>
+                <StackPanel  Grid.Column="1" Grid.Row="4">
+                    <TextBlock Text="Nhập lại mật khẩu"  VerticalAlignment="Center" FontSize="18" Foreground="{StaticResource color3}" Margin="20,0,0,0" Height="24"></TextBlock>
+
+                    <PasswordBox Grid.Row="5"  Grid.Column="1" x:Name="confirmpass" 
+                    FontSize="18"
+                           Width="484"
+                           Background="WhiteSmoke"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}" 
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}"
+                             VerticalContentAlignment="Center"
+                             HorizontalAlignment="Left"
+                             Margin="20,5,0,5" Grid.ColumnSpan="2" Height="52"/>
+                    <TextBox  Margin="12,-56,4,39" Visibility="Hidden" x:Name="Showconfpass"
+                             FontSize="18"
+                             Height="50"
+                             Width="500"
+                             Background="WhiteSmoke"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}" 
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}">
+                    </TextBox>
+                </StackPanel>
+                <Button Style="{StaticResource BottomMenuButton}" Grid.Row="6" Grid.Column="1" x:Name="btnDoiPass" Content="Đổi mật khẩu" Height="NaN" HorizontalAlignment="Left" Margin="20,10,0,0" Click="btnDoiPass_Click" Width="150" />
+                <Button Style="{StaticResource BottomMenuButton}" Grid.Row="6" Grid.Column="1"  Content="Hiện Mật Khẩu" Height="NaN" HorizontalAlignment="Right" Margin="0,10,148,0" x:Name="Hienpass"
+                        Click="Hienpass_Click" Width="150"/>
+
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

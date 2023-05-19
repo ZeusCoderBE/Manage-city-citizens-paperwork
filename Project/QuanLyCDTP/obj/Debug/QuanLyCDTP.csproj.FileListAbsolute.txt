@@ -1,0 +1,1684 @@
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csprojAssemblyReference.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\InfoCard.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\BieuDo.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\Flichsu.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\InfoCard.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\textbox.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\ThongTinCaNhan.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\UserControl1.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\BieuDo.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\textbox.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\ThongTinCaNhan.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\UserControl1.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\Flichsu.baml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\FDangKy.g.cs
+D:\Nam 2 ki 2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\User Controls\FDangKy.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\KhaiSinh.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\HonNhan.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\KhaiSinh.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\HonNhan.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\ButtonStyles.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\UIColors.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\ButtonStyles.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\UIColors.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FHoChieu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FHoChieu.baml
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FLSHoChieu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ganhtdoan\QuanLyCDTP\QuanLyCDTP\obj\Debug\FLSHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\ButtonStyles.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\UIColors.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\ButtonStyles.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\UIColors.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\KhaiSinh.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\KhaiSinh.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.xml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csprojAssemblyReference.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\ButtonStyles.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\UIColors.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.baml
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.g.cs
+D:\Nam2ki2\LapTrinhWindow\ql\QuanLyCDTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\QuanLyCongDanTP\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\QuanLyCDTP-HT\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csprojAssemblyReference.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\ButtonStyles.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\style\UIColors.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fbutton.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\InfoCard.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\EPPlus.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\App.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThueShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FLoaiThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FDKHonNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FThongTin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoaDonThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fcccd.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHoChieuShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLSHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FLichSuTamTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTamTruShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FKhaiTu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FTrangTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FKhaiSinhShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_Customer.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fdemo_home.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fhokhau2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Forder1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fsohokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FsohokhauForm2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Ftamtru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\FHonNhanShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\BieuDo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\Fkhaisinh.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FromHienThi\Flichsu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\textbox.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\ThongTinCaNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\FUserControls\UserControl1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\Flogin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csprojAssemblyReference.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\App.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\App.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Test\FDKHonNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Test\FDKHonNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\HienThi\FHienThiKS.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\obj\Debug\FUserControls\HienThi\FHienThiKS.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu3\QuanLyCDTP\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\HienThi\FHienThiKS.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Test\FDKHonNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\App.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\App.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\HienThi\FHienThiKS.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\Test\FDKHonNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\Do_An\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\HienThi\FHienThiKS.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Test\FDKHonNhan.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\App.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\App.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\HienThi\FHienThiKS.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\Test\FDKHonNhan.baml
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+C:\Users\hdang\Documents\Zalo Received Files\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csprojAssemblyReference.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\App.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\App.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\thongtincn.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\ThongTinCaNhan.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoKhauShow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\SaoLuu4\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoKhauShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoKhauShow.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\App.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\App.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoKhauShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSThongTin.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\ThongTinCaNhan.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSThongTin.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\ThongTinCaNhan.baml
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSKhaiSinh.g.cs
+D:\Nam2ki2\CSDL\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSKhaiSinh.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSKhaiSinh.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSThongTin.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\ThongTinCaNhan.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\App.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\App.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSKhaiSinh.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSThongTin.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\ThongTinCaNhan.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe.config
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\QuanLyCDTP.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.Interfaces.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.System.Drawing.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\FontAwesome.Sharp.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\PresentationFramework.Aero2.dll
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\EPPlus.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\FontAwesome.WPF.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\LiveCharts.Wpf.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignColors.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.AssemblyReference.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.SuggestedBindingRedirects.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\ButtonStyles.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\NguonTaiNguyen\style\UIColors.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSKhaiSinh.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSThongTin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoKhauShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FGiaoDien.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\ThongTinCaNhan.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Flogin.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\App.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_Content.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\App.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\FCatKhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSKhaiSinh.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\FSThongTin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoKhauShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThueShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FLoaiThue.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\HonNhan\FDKHonNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FThongTin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\HoaDon\FHoaDonThue.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\Fcccd.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FGiaoDien.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHoChieuShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\ThongTinCD\FHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLSHoChieu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FLichSuTamTru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FTamTruShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\FKhaiTu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\subieudo.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FAccount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FchangePass.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FinfoAcount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\FloginAccount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\Login\ForderAccount.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundDK.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGroundBD.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FBackGround.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\FDangKyBoTro.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\FTrangTru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FKhaiSinhShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fdemo_home.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\DangKy\Fhokhau2.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Forder1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\Fsohokhau.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\HoKhau\HienThi\FsohokhauForm2.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\NoiSong\Ftamtru.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\FHonNhanShow.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\BieuDo.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\Fbutton.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDangKy.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\SinhTu\Fkhaisinh.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSach\Flichsu.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\InfoCard.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\TraCuu\ThongTinCaNhan.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\BieuDo\UserControl1.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Flogin.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\NgayThangNamNguoiDK.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\Source\UserControlStyle\SubBackground.baml
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.g.resources
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.GenerateResource.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CoreCompileInputs.cache
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.csproj.CopyComplete
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.exe
+D:\document-2022-2023\HK2 - DA\LT_WinDow\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\QuanLyCDTP.pdb
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FHoKhauShow.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FThueShow.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FThongTin.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FHoChieuShow.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FLSHoChieu.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FLichSuTamTru.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FTamTruShow.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FKhaiSinhShow.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FHonNhanShow.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\Flichsu.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FHoKhauShow.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FThueShow.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FThongTin.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FHoChieuShow.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FLSHoChieu.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FLichSuTamTru.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FTamTruShow.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FKhaiSinhShow.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\FHonNhanShow.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\FDanhSachHienThi\Flichsu.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\Thue\FLoaiThue.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\Thue\FHoaDonThue.g.cs
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\Thue\FLoaiThue.baml
+D:\Nam2ki2\CSDL\DoAnNhom2\Project\QuanLyCDTP\obj\Debug\FUserControls\CongDan\Thue\FHoaDonThue.baml

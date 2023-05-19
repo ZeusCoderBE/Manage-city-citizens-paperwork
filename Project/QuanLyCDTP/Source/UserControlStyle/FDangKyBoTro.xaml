@@ -1,0 +1,86 @@
+﻿<UserControl x:Class="QuanLyCDTP.FDangKyBoTro"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d"
+             
+             >
+    <Border Background="Transparent" Loaded="KhoiTao">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="251*"></ColumnDefinition>
+                <ColumnDefinition Width="89"></ColumnDefinition>
+                <ColumnDefinition Width="300"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="45"></RowDefinition>
+                    <RowDefinition Height="100"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Margin="20,2,3,4" Grid.Row="0" Text="Nơi Đăng Ký:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                <ui:InfoCard Grid.Row="0" Width="200"  x:Name="noidangky" Margin="145,2,3,4"/>
+            </Grid>
+            <Grid Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40"></ColumnDefinition>
+                        <ColumnDefinition Width="40"></ColumnDefinition>
+                        <ColumnDefinition Width="60"></ColumnDefinition>
+                        <ColumnDefinition Width="60"></ColumnDefinition>
+                        <ColumnDefinition Width="50"></ColumnDefinition>
+                        <ColumnDefinition Width="50"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="Ngày" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" Margin="0"/>
+                    <ui:InfoCard Grid.Column="1" Margin="0" x:Name="Ngay" />
+                    <TextBlock Grid.Column="2" Text="Tháng" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" Margin="0" />
+                    <ui:InfoCard Grid.Column="3" Margin="0" x:Name="Thang" />
+                    <TextBlock Grid.Column="4" Text="Năm" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" Margin="0" />
+                    <ui:InfoCard Grid.Column="5" Margin="0" x:Name="Nam"/>
+
+                </Grid>
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="Cán Bộ:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" Margin="100 0 0 0"/>
+                    <ui:InfoCard Grid.Column="1" Margin="10 0 0 0" x:Name="CCCDCanBo" KeyDown="Enter"/>
+
+                </Grid>
+                <Grid Grid.Row="2">
+                    <ui:InfoCard Grid.Column="1" Margin="0" Width="180" x:Name="TenCanBo"/>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="236*"/>
+                        <ColumnDefinition Width="11*"/>
+                        <ColumnDefinition Width="53*"/>
+                    </Grid.ColumnDefinitions>
+                    <Image Source="../Image/Icon/iconSign.png"  HorizontalAlignment="Center" Width="191" Opacity="0.7" Panel.ZIndex="-1" Margin="0,7,0,-59" RenderTransformOrigin="0.5,0.5" >
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="39.626"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </Grid>
+            </Grid>
+            <Grid Grid.Column="1">
+
+            </Grid>
+        </Grid>
+    </Border>
+
+</UserControl>

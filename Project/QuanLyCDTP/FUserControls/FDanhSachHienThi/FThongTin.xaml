@@ -1,0 +1,97 @@
+﻿<UserControl x:Class="QuanLyCDTP.FThongTin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" 
+             d:DesignHeight="210" d:DesignWidth="800">
+    <Grid x:Name="gridhienthi">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu Background="Transparent" Grid.Row="0" Margin="10,10,50,10">
+            <MenuItem Header="Filter"  Template="{StaticResource Menu_SubMenu_Template2}">
+                <MenuItem.Icon>
+                    <fa:IconImage Icon="Search" Foreground="Black"
+                                              Height="12"></fa:IconImage>
+                </MenuItem.Icon>
+                <MenuItem x:Name="btnLocDiaDiem" Template="{StaticResource Item_combo}"  Header="Lọc Theo Địa Điểm" Click="btnLocDiaDiem_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="Filter" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="btnLocDanToc" Template="{StaticResource Item_combo}" Header="Lọc Theo Dân Tộc" Click="btnLocDanToc_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="Filter" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Menu Background="Transparent" Grid.Row="0" Margin="10,10,50,10" HorizontalAlignment="Right">
+            <MenuItem Header="Sắp xếp" Template="{StaticResource Menu_SubMenu_Template2}">
+                <MenuItem.Icon>
+                    <fa:IconImage Icon="Sort" Foreground="Black"
+                                              Height="12"></fa:IconImage>
+                </MenuItem.Icon>
+                <MenuItem x:Name="btnsxtang" Template="{StaticResource Item_combo}"  Header="Sort A-Z" Click="btnsxtang_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="SortAsc" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="btnsxgiam" Template="{StaticResource Item_combo}" Header="Sort Z-A" Click="btnsxgiam_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="SortDesc" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Border
+                Background="#200F53"
+                CornerRadius="10" 
+                Padding="10" Margin="0,70,0,0" Grid.RowSpan="2">
+            <ListView x:Name="lvUser" Background="#200F53"
+                  BorderThickness="0" Grid.Row="0">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="Foreground" Value="#BCBEE0"/>
+                        <Setter Property="Padding" Value="10,0,0,10"/>
+                        <Setter Property="FontFamily" Value="Montserrat"/>
+                        <Setter Property="FontSize" Value="15"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView >
+                        <GridViewColumn Header="Căn Cước Công Dân" Width="180" DisplayMemberBinding="{Binding CCCD}"></GridViewColumn>
+                        <GridViewColumn Header="Họ Tên" Width="180" DisplayMemberBinding="{Binding HoTen}"></GridViewColumn>
+                        <GridViewColumn Header="Giới Tính" Width="120" DisplayMemberBinding="{Binding GioiTinh}"></GridViewColumn>
+                        <GridViewColumn Header="Ngày Sinh" Width="120" DisplayMemberBinding="{Binding NgaySinh}"></GridViewColumn>
+                        <GridViewColumn Header="Ngày Mất" Width="120" DisplayMemberBinding="{Binding NgayMat}"></GridViewColumn>
+                        <GridViewColumn Header="Quê Quán" Width="120" DisplayMemberBinding="{Binding QueQuan}"></GridViewColumn>
+                        <GridViewColumn Header="Thường Trú" Width="120" DisplayMemberBinding="{Binding ThuongTru}"></GridViewColumn>
+                        <GridViewColumn Header="Tạm Trú" Width="120" DisplayMemberBinding="{Binding TamTru}"></GridViewColumn>
+                        <GridViewColumn Header="Dân Tộc" Width="120" DisplayMemberBinding="{Binding DanToc}"></GridViewColumn>
+                        <GridViewColumn Header="Hôn Nhân" Width="120" DisplayMemberBinding="{Binding HonNhan}"></GridViewColumn>
+                        <GridViewColumn Header="CCCD Cha" Width="120" DisplayMemberBinding="{Binding CccdCha}"></GridViewColumn>
+                        <GridViewColumn Header="CCCD Mẹ" Width="120" DisplayMemberBinding="{Binding CccdMe}"></GridViewColumn>
+                        <GridViewColumn Header="Tiền Lương" Width="120" DisplayMemberBinding="{Binding Tienluong}"></GridViewColumn>
+                        <GridViewColumn Header="Quốc Tịch" Width="120" DisplayMemberBinding="{Binding Quoctich}"></GridViewColumn>
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+        <Grid x:Name="hienthi" Grid.Row="0" Margin="-120,-2,488,24" />
+        <Grid Grid.Row="2">
+            <Button Style="{StaticResource BottomMenuButton}"  x:Name="btnHienThi" Content="ReLoad" Click="btnHienThi_Click" Margin="602,10,98,0" Height="30" VerticalAlignment="Top" />
+            <Button Style="{StaticResource BottomMenuButton}"  x:Name="btnIn" Content="Export File Excel" Click="btnIn_Click" Margin="478,10,222,10" />
+        </Grid>
+
+    </Grid>
+</UserControl>

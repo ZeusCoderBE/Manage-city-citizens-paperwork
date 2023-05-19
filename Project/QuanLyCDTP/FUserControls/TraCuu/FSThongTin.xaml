@@ -1,0 +1,218 @@
+﻿<UserControl x:Class="QuanLyCDTP.thongtincn"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:ui ="clr-namespace:QuanLyCDTP"
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="1000"
+             Background="#6a13ee">
+    <Border Grid.Row="1" x:Name="boHienthi" CornerRadius="10" Background="White" Margin="10,20,10,10">
+
+        <!--<Border.Background>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#a9a9fc" Offset="0"></GradientStop>
+                    <GradientStop Color="#4242f1" Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Border.Background>-->
+        <Grid x:Name="thongtincanhan">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Name="DataBoard">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="133"/>
+                </Grid.ColumnDefinitions>
+                <!--<StackPanel Orientation="Horizontal">
+                        <ui:InfoCard hint="Tìm Kiếm"  Width="860" Margin="22,0,0,0" Loaded="InfoCard_Loaded" BorderThickness="1,1,0,1" x:Name="infocard"></ui:InfoCard>
+                        <Button Style="{StaticResource ResourceKey=MenuButtonActiveSearch}"  Background="Red" Width="90" Height="35" Margin="0,6,12,5" BorderThickness="0,1,1,1" Click="ClickTimKiem">
+                            <Image Source="../Source/Image/Icon/icon_search.png" Height="25" RenderTransformOrigin="0.875,0.5"/>
+                        </Button>
+
+
+                    </StackPanel>-->
+                <StackPanel Orientation="Vertical" Margin="20,10,10,0">
+                    <Image Source="/Source/Window/picture/Logo.png" Height="40" HorizontalAlignment="Center"></Image>
+                    <TextBlock Text="THÔNG TIN CÔNG DÂN" Style="{StaticResource MenuButtonText}" Margin="10,2,3,4"  FontSize="16" Foreground="Red" FontWeight="Bold" Grid.ColumnSpan="2" HorizontalAlignment="Center" />
+
+                </StackPanel>
+                <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Top"
+                        Grid.Column="0" Margin="20,20,215,0" Height="29">
+                    <fa:IconImage Icon="Search" Height="20" Width="20" Foreground="{StaticResource plainTextColor3}"/>
+                    <TextBox  x:Name="infocard"  
+                    FontSize="13"
+                         Height="24"
+                           Width="150"
+                           Background="Transparent"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}"
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}"
+                             BorderThickness="0,0,0,1"                             
+                             VerticalContentAlignment="Center"
+                             Margin="5,5,0,0"></TextBox>
+                </StackPanel>
+
+                <Button Grid.Column="1" Click="ClickTimKiem"
+                            Command="{Binding LoginCommand}"                            
+                            Content="Search"                            
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            BorderThickness="0"
+                            Foreground="White"
+                    VerticalAlignment="Top" Margin="4,10,10,0" Height="30">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#773DFF"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Height="30"
+                                                    CornerRadius="15"
+                                                    Background="{TemplateBinding Background}">
+                                            <ContentPresenter VerticalAlignment="Center"
+                                                                      HorizontalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#836EFB"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+                <Button Grid.Column="1" Click="ClickXoa"
+                            Command="{Binding LoginCommand}"                                                  
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            BorderThickness="0"
+                            Foreground="White"
+                    VerticalAlignment="Top" Margin="4,61,10,0" Height="30" Content="Clear">
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#773DFF"/>
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="Button">
+                                        <Border Height="30"
+                                                    CornerRadius="15"
+                                                    Background="{TemplateBinding Background}">
+                                            <ContentPresenter VerticalAlignment="Center"
+                                                                      HorizontalAlignment="Center"/>
+                                        </Border>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#836EFB"/>
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+            </Grid>
+            <Grid Grid.Row="1" Margin="0,0,0,24">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="300"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <Border  CornerRadius="10, 0 , 0 ,10" Margin="15,0,0,0">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                                <GradientStop Color="#f0f2f5" Offset="0"/>
+                                <GradientStop Color="#f0f2f5" Offset="3"/>
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="\Source\Image\Icon\icon-human.png" Height="150" VerticalAlignment="Top" Margin="0,31,0,0" />
+                            <TextBox IsHitTestVisible="False" BorderThickness="0" Text="Họ và Tên" Foreground="Black" TextAlignment="Center" FontWeight="Bold" Margin="0,15,0,0" x:Name="HoTen"/>
+                            <TextBox BorderThickness="0" Text="CCCD" Foreground="Black" TextAlignment="Center" FontWeight="Bold" Margin="0,15,0,0" x:Name="CCCD"/>
+                            <TextBox BorderThickness="0"  Text="Quê Quán" Foreground="Black" TextAlignment="Center" FontWeight="Bold" Margin="0,15,0,0" x:Name="ThuongTru"/>
+                        </StackPanel>
+
+                    </Border>
+                </Grid>
+                <Grid Grid.Column="1">
+                    <Border CornerRadius="0, 10, 10 ,0" Background="{StaticResource titleColor1}" Margin="0,0,15,0">
+                        <Grid VerticalAlignment="Center" >
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="20"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                                <RowDefinition Height="50"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="3" Text="Giới tính:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                            <TextBlock Grid.Row="4" Text="Hôn nhân:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                            <TextBlock Grid.Row="5" Text="Tạm trú:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                            <TextBlock Grid.Row="6" Text="Ngày sinh" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+
+                            <TextBlock Grid.Row="7" Text="Ngày mất" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+
+                            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                                <TextBlock Text="CCCD cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                                <ui:InfoCard  hint="CCCD Cha"  MinWidth="200" Margin="10,0,20,5" x:Name="cccdCha"/>
+                                <TextBlock Text="Họ Tên cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                                <ui:InfoCard  hint="vd:Tran Van B" MinWidth="200"  Margin="10,0,20,5" x:Name="nameCha"/>
+
+                            </StackPanel>
+
+                            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                                <TextBlock Text="CCCD Mẹ:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                                <ui:InfoCard  hint="CCCD Mẹ"  MinWidth="200" Margin="10,0,20,5" x:Name="cccdMe"/>
+                                <TextBlock Text="Họ Tên Mẹ:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                                <ui:InfoCard  hint="vd:Tran Van B" MinWidth="200"  Margin="10,0,20,5" x:Name="nameMe"/>
+
+                            </StackPanel>
+
+
+                            <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" Margin="137,0,0,0">
+                                <Button Margin="215,0,0,0" Style="{StaticResource ButtonBorder}" Width="30" Height="30" VerticalAlignment="Center" x:Name="Nu">
+                                    <fa:IconImage Icon="Venus" Height="20" Width="20"/>
+                                </Button>
+                                <TextBlock Text="Nữ" VerticalAlignment="Center" Foreground="#363636" FontSize="16" Padding="7,0,0,0"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal">
+                                <Button Margin="215,0,0,0" Style="{StaticResource ButtonBorder}" Width="30" Height="30" VerticalAlignment="Center"  x:Name="Nam">
+                                    <fa:IconImage Icon="Mars" Height="20" Width="20"/>
+                                </Button>
+                                <TextBlock Text="Nam" VerticalAlignment="Center" Foreground="#363636" FontSize="16" Padding="7,0,0,0"/>
+                            </StackPanel>
+                            <ui:InfoCard hint="Hôn Nhân" Grid.Column="1" Grid.Row="4" Margin="150,0,20,5" x:Name="HonNhan"/>
+                            <ui:InfoCard hint="Tạm Trú" Grid.Column="1" Grid.Row="5" Margin="150,0,20,5" x:Name="TamTru"/>
+                            <DatePicker   Width="180" Height="50" Grid.Column="1"  Grid.Row="6" x:Name="dateSinh" Margin="10,20,0,0"></DatePicker>
+                            <DatePicker   Width="180" Height="50" Grid.Column="1"  Grid.Row="7" x:Name="dateMat" Margin="10,10,0,0"></DatePicker>
+                            <Grid Grid.Column="1" Grid.Row="8" Margin="150,0,20,5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                            </Grid>
+                        </Grid>
+                    </Border>
+                </Grid>
+
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

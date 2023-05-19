@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="QuanLyCDTP.Fhokhau2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+              xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" 
+             MinHeight="300" MinWidth="600">
+    <Border Background="#eae8f3" CornerRadius="60">
+    <Grid Margin="15,0,15,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" x:Name="Them" Margin="50,0,50,0">
+            <Button Style="{StaticResource BottomMenuButton}" x:Name="update_hk" Click="BTN_update_ThanhVien" Content="Thêm Thành Viên" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Right" VerticalAlignment="Center" Width="100" Margin="5,0,70,0"/>
+            <Button Style="{StaticResource BottomMenuButton}" x:Name="add_hk" Click="BTN_Add_ThanhVien" Content="Đăng ký Hộ Khẩu" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Right" VerticalAlignment="Center" Width="120" Margin="5,0,180,0"/>
+            <Button Style="{StaticResource BottomMenuButton}" x:Name="cat_hk" Click="BTN_CatKhau" Content="Cắt Khẩu" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Right" VerticalAlignment="Center" Width="60" Margin="5,0,0,0"/>
+        </Grid>
+       
+        <Grid x:Name="gridhienthi" Margin="50,0,50,0" Grid.Row="1">
+           
+        </Grid>
+        
+
+    </Grid>
+    </Border>
+</UserControl>

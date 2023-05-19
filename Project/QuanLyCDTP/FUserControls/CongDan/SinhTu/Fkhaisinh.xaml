@@ -1,0 +1,111 @@
+﻿<UserControl x:Class="QuanLyCDTP.Fkhaisinh"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" 
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+     TextElement.FontWeight="Regular"
+     TextElement.FontSize="13"
+     TextOptions.TextFormattingMode="Ideal"
+     TextOptions.TextRenderingMode="Auto"
+     Background="{DynamicResource MaterialDesignPaper}"
+     FontFamily="{DynamicResource MaterialDesignFont}"
+            
+             >
+    <Grid x:Name="gdangky"  Visibility="Visible">
+        <Border  Background="#eae8f3" CornerRadius="60">
+            <Grid VerticalAlignment="Top" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0"/>
+                    <RowDefinition Height="80"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="36"/>
+                    <RowDefinition Height="54"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Orientation="Vertical" Grid.Row="1" Margin="0,10,0,0">
+                    <Image Source="/Source/Window/picture/Logo.png" Height="40"  HorizontalAlignment="Center"></Image>
+                    <TextBlock Margin="-4,2,3,4" Text="GIẤY KHAI SINH" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Red" FontWeight="Bold" Grid.ColumnSpan="2" HorizontalAlignment="Center" />
+
+                </StackPanel>
+                <StackPanel Grid.Row="2" Orientation="Horizontal">
+                    <TextBlock  Text="MaSoTo :" FontWeight="Bold" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                    <ui:InfoCard    Width="40" Grid.Row="2"  Margin="40,0,20,18" x:Name="maso" KeyDown="maso_KeyDown"/>
+                    <TextBlock  Text="Họ và Tên :"  Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Width="77" />
+                    <ui:InfoCard   Width="212" Grid.Row="2"  Margin="40,0,20,18" x:Name="name" />
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <TextBlock  Text="Giới Tính: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                        <ComboBox x:Name="gioitinh" 
+                  Width="100" Height="30"
+                  VerticalAlignment="Center"
+                  HorizontalAlignment="Center"
+                  VerticalContentAlignment="Center" Margin="0,0,0,10">
+                            <ComboBoxItem Content="Nam" />
+                            <ComboBoxItem Content="Nữ" IsSelected="False"/>
+                        </ComboBox>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Grid.Row="3" Orientation="Horizontal">
+                    <TextBlock  Text="Dân tộc :" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                    <ui:InfoCard  MinWidth="100"   Margin="10,0,20,5" x:Name="dantoc"/>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <TextBlock  Text="Quốc tịch: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                        <ui:InfoCard MinWidth="200" Margin="40,0,20,5" x:Name="quoctich"/>
+                    </StackPanel>
+
+                </StackPanel>
+                <TextBlock Grid.Row="4"  Text="Nơi sinh:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" VerticalAlignment="Center" Height="22" Margin="30,0,0,0" />
+                <ui:InfoCard Grid.Row="4" Margin="144,0,580,0" x:Name="noisinh"/>
+                <StackPanel Orientation="Horizontal" Grid.Row="5">
+                    <TextBlock Text="CCCD Cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard  Width="150" Margin="40,0,20,5" x:Name="cccdcha" KeyDown="Enter" />
+                    <TextBlock Text="Họ Tên Cha:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard  Width="150" Margin="40,0,20,5" x:Name="namecha" />
+                    <StackPanel Grid.Row="7" Orientation="Horizontal">
+                        <TextBlock  Text="Dân tộc :" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                        <ui:InfoCard   Grid.Row="2" Width="100"  Margin="40,0,20,5" x:Name="dantoccha"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="3" Margin="560,2,3,4">
+                    <TextBlock  Text="Quốc tịch Cha: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                    <ui:InfoCard MinWidth="100"   Margin="0,0,20,5" x:Name="quoctichcha"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="6">
+                    <TextBlock Text="CCCD Mẹ:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard Width="150"  Margin="44,0,20,5" x:Name="cccdme" KeyDown="Enter2"/>
+                    <TextBlock Text="Họ Tên Mẹ:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard Width="150"  Margin="44,0,20,5" x:Name="nameme"/>
+                    <StackPanel Grid.Row="9" Orientation="Horizontal">
+
+                        <TextBlock  Text="Dân tộc :" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                        <ui:InfoCard Grid.Row="2" Width="100"  Margin="40,0,20,5" x:Name="dantocme"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="350,2,3,4" Grid.Row="4">
+                    <TextBlock  Text="Quốc tịch Mẹ: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                    <ui:InfoCard  MinWidth="100"  Margin="0,0,20,5" x:Name="quoctichme"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left"  Margin="40,-14,25,0" Width="517" Grid.Row="9">
+                    <Button  x:Name="btnXoa" Style="{StaticResource BottomMenuButton}"  Click="btnXoa_Click" Content="Xoá"  Width="80" Margin="5,0,0,0"/>
+                    <Button  x:Name="btnkhaisinh" Style="{StaticResource BottomMenuButton}"  Click="btnkhaisinh_Click" Content="KhaiSinh" HorizontalAlignment="Left"  Width="80"/>
+                    <Button  x:Name="btnSua" Style="{StaticResource BottomMenuButton}"  Click="btnSua_Click" Content="Sửa" HorizontalAlignment="Left"  Width="80"/>
+                    <Button  x:Name="btnxoatext" Style="{StaticResource BottomMenuButton}"  Click="btnxoatext_Click" Content="Làm Sạch" HorizontalAlignment="Center"  Width="80" />
+                </StackPanel>
+                <Grid Grid.Row="7" Grid.RowSpan="2">
+                    <local:FDangKyBoTro x:Name="BoTroGKS" Margin="10,0,0,0"></local:FDangKyBoTro>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

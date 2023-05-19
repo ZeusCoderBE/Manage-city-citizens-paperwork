@@ -1,0 +1,150 @@
+﻿<UserControl x:Class="QuanLyCDTP.Fhokhau"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+              xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" MinWidth="700"
+             >
+    <Border Background="#eae8f3" CornerRadius="60">
+        <Grid Name="GridThemThanhVien">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="100"></RowDefinition>
+
+
+            </Grid.RowDefinitions>
+            <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Top"
+                        Grid.Column="0" Margin="0,20,5,0">
+                <TextBlock  Text="CCCD:"  FontSize="20" Margin="55 0 0 0"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <TextBox  x:Name="infocard" KeyDown="Enter" 
+                    FontSize="13"
+                         Height="24"
+                           Width="150"
+                           Background="Transparent"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}"
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}"
+                             BorderThickness="0,0,0,1"                             
+                             VerticalContentAlignment="Center"
+                             Margin="5,0,0,0" TextChanged="Infocard_TextChanged"></TextBox>
+                <TextBlock  Text="Số Khai Sinh:"  FontSize="20" Margin="25 0 0 0"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <TextBox  x:Name="masoto" KeyDown="Enter2" 
+                    FontSize="13"
+                         Height="24"
+                           Width="150"
+                           Background="Transparent"
+                             FontWeight="Medium"
+                             FontFamily="Montserrat"                            
+                             Foreground="{StaticResource plainTextColor3}"
+                             CaretBrush="{StaticResource plainTextColor3}"
+                             BorderBrush="{StaticResource plainTextColor3}"
+                             BorderThickness="0,0,0,1"                             
+                             VerticalContentAlignment="Center"
+                             Margin="5,5,0,0"></TextBox>
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Sổ Hộ Khẩu :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard MinWidth="100" x:Name="HoKhau" Height="28" FontSize="20" FontWeight="DemiBold" KeyDown="TimKiemSHK"></ui:InfoCard>
+
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Họ và tên :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard MinWidth="100" x:Name="HoVaTen" Height="28" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+
+            </StackPanel>
+            <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Ngày, Tháng, Năm sinh :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <DatePicker  MinWidth="150" x:Name="date"  ></DatePicker>
+
+            </StackPanel>
+            <StackPanel Grid.Row="3" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,26,0">
+                <TextBlock  Text="Giới tính :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard MinWidth="100" x:Name="gioitinh" Height="28" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+
+
+            </StackPanel>
+
+            <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Nguyên quán :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard MinWidth="100" x:Name="quequan" Height="28" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Dân Tộc :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard MinWidth="100" x:Name="dantoc"  Height="28" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,26,0">
+                <TextBlock  Text="Quốc tịch :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <TextBlock  Text="Việt Nam"  FontSize="20" FontWeight="DemiBold" ></TextBlock>
+
+            </StackPanel>
+            <!--<StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Nghề nghiệp và việc làm :  "  FontSize="20"></TextBlock>
+                <TextBlock  Text="Làm vườn"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>-->
+            <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Nới thường trú :  "  FontSize="20"  Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard MinWidth="100" x:Name="thuongtru" Height="28" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+
+
+            </StackPanel>
+            <StackPanel Grid.Row="7" Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,10,0,0"/>
+            <Grid Grid.Row="7">
+                <local:FDangKyBoTro x:Name="FHoKhauBoTro"></local:FDangKyBoTro>
+            </Grid>
+            <!--<TextBlock Grid.Row="7" Text="nguyễn văn B" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontWeight="SemiBold" Margin="0,0,100,10"></TextBlock>-->
+
+ <!--           <StackPanel Orientation="Vertical" Grid.Row="7" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,25,0">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock  Text="Ngày:  "  FontSize="20"></TextBlock>
+                    <ui:InfoCard  x:Name="ngay" Height="28" Width="50" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+                    <TextBlock  Text=" ,Tháng:  "  FontSize="20"></TextBlock>
+                    <ui:InfoCard  x:Name="thang" Height="28" Width="50" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+                    <TextBlock  Text=" ,Năm:  "  FontSize="20"></TextBlock>
+                    <ui:InfoCard  x:Name="nam" Height="28" Width="80" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="-20,0,0,0">
+                    <TextBlock  Text="TRƯỞNG CÔNG AN:  "  FontSize="20"></TextBlock>
+                    <ui:InfoCard  x:Name="cccdCA" Height="28" Width="50" FontSize="20" FontWeight="DemiBold"></ui:InfoCard>
+                </StackPanel>
+                <TextBlock  Text="(ký tên)"  FontSize="20" FontWeight="Light" HorizontalAlignment="Center"></TextBlock>
+            </StackPanel>
+            <Image Source="../Source/Image/Icon/iconSign.png" Grid.Row="7" HorizontalAlignment="Right" Height="140" Width="150" Opacity="0.7" Panel.ZIndex="-1" Margin="0,20,160,0" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="39.626"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+-->
+            <Grid Grid.Row="7" x:Name="Them"  Margin="50,0,50,0">
+                <Button Style="{StaticResource BottomMenuButton}" VerticalAlignment="Bottom" HorizontalAlignment="Left" Click="BTThemThanhVien" Content="Thêm" Width="80" Margin="5,0,0,22"/>
+            </Grid>
+            <Grid Grid.Row="7" x:Name="Xoa"  Margin="150,0,50,0">
+                <Button Style="{StaticResource BottomMenuButton}" VerticalAlignment="Bottom" HorizontalAlignment="Left" Click="BTLamSach" Content="Làm Sạch" Width="80" Margin="5,0,0,20"/>
+            </Grid>
+
+        </Grid>
+
+    </Border>
+</UserControl>

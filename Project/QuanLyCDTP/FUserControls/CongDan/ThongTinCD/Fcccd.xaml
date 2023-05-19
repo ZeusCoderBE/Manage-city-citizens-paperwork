@@ -1,0 +1,101 @@
+﻿<UserControl x:Class="QuanLyCDTP.Fcccd"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" 
+             >
+    <Grid x:Name="gdangky" Visibility="Visible">
+        <Border  Background="#eae8f3" CornerRadius="60"  >
+            <Grid VerticalAlignment="Top" >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5"/>
+                    <RowDefinition Height="75"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                
+                <StackPanel Orientation="Vertical" Grid.Row="1" Margin="0,0,0,0">
+                    <Image Source="/Source/Window/picture/Logo.png" Height="50"  HorizontalAlignment="Center"></Image>
+                    <TextBlock Text="GIẤY CĂN CƯỚC CÔNG DÂN" FontSize="20" Foreground="Red" FontWeight="Bold" Grid.ColumnSpan="2" HorizontalAlignment="Center" />
+
+                </StackPanel>
+                <StackPanel Grid.Row="2" Orientation="Horizontal">
+                    <TextBlock  Text="CCCD:" Style="{StaticResource MenuButtonText}" Grid.ColumnSpan="2"  FontSize="16" Margin="30 0 0 0"  />
+                    <ui:InfoCard   MinWidth="213" Grid.Row="2"  Margin="40,-10,20,0" x:Name="maso" KeyDown="maso_KeyDown"/>
+                    <TextBlock  Text="Mã Số Tờ GKS :"  Style="{StaticResource MenuButtonText}" FontSize="16" Margin="30 0 0 0" Foreground="Black" Width="116" />
+                    <ui:InfoCard  MinWidth="122" Grid.Row="2"  Margin="40,-10,20,5" x:Name="giaykhaisinh" KeyDown="masokhaisinh"/>
+                    <TextBlock  Text="Họ và Tên :"  Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Width="77" />
+                    <ui:InfoCard  MinWidth="122" Grid.Row="2"  Margin="40,-10,20,5" x:Name="name" />
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Orientation="Horizontal" >
+                    <TextBlock  Text="Dân tộc :" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                    <ui:InfoCard   Margin="40,0,20,5" x:Name="dantoc" Width="157"/>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <TextBlock  Text="Hôn Nhân: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                        <ui:InfoCard  Margin="40,0,20,5" x:Name="honnhan" Width="139"/>
+                        <StackPanel Orientation="Horizontal"  Grid.Row="3">
+                            <TextBlock  Text="giới tính: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black"  Margin="30,10,220,0" />
+                            <ui:InfoCard    x:Name="gioitinh" Width="215" Margin="-200,-7,40,0" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="4">
+                    <TextBlock Text="Thường Trú:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard Width="288"  Margin="30,0,20,5" x:Name="thuongtru"/>
+                    <StackPanel Grid.Row="9" Orientation="Horizontal">
+                        <TextBlock  Text="Ngày Sinh:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2"  Margin="34,10,20,10"/>
+                        <DatePicker x:Name="Date" Padding="2,2,2,2" Margin="0,13,0,0"></DatePicker>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="5">
+                    <TextBlock Text="Tạm Trú:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard Width="283" Margin="60,0,20,5" x:Name="tamtru"/>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                        <TextBlock Margin="40,10,30,10"  Text="CCCD Mẹ: " Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" />
+                        <ui:InfoCard   Margin="-25,0,20,5" x:Name="cccdme" Width="175"/>
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="6">
+                    <TextBlock Text="Quê Quán:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard Width="288"  Margin="44,0,20,5" x:Name="quequan"/>
+                    <StackPanel Grid.Row="9" Orientation="Horizontal">
+                        <TextBlock  Text="CCCDCha :" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2"  Margin="28,10,20,10"/>
+                        <ui:InfoCard  Grid.Row="2" Width="172"  Margin="-10,0,20,5" x:Name="cccdcha"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Grid.Row="7">
+                    <TextBlock Text="Tiền Lương:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2" VerticalAlignment="Center" />
+                    <ui:InfoCard Width="288"  Margin="44,0,20,5" x:Name="tienluong"/>
+                    <StackPanel Grid.Row="9" Orientation="Horizontal">
+                        <TextBlock  Text="Quốc Tịch:" Style="{StaticResource MenuButtonText}" FontSize="16" Foreground="Black" Grid.ColumnSpan="2"  Margin="28,10,20,10"/>
+                        <ui:InfoCard Grid.Row="2" Width="172"  Margin="-10,0,20,5" x:Name="quoctich"/>
+                    </StackPanel>
+                </StackPanel>
+                
+                <Grid Grid.Row="9" Margin="50,0,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="btnSua" Style="{StaticResource BottomMenuButton}"  Click="btnSua_Click" Content="Sửa" HorizontalAlignment="Left" Margin="100,0,0,0" Width="80"/>
+                    <Button x:Name="btndangky" Style="{StaticResource BottomMenuButton}"  Click="btndangky_Click" Content="Đăng Ký" HorizontalAlignment="Left" Margin="200,0,0,0" Width="80"/>
+                    <Button x:Name="btnXoa" Style="{StaticResource BottomMenuButton}"  Click="btnXoa_Click" Content="Xoá" HorizontalAlignment="Left" Margin="300,0,0,0" Width="80"/>
+                    <Button x:Name="btnxoatext" Style="{StaticResource BottomMenuButton}"  Click="btnxoatext_Click" Content="Làm Sạch" HorizontalAlignment="Left"  Width="80" RenderTransformOrigin="0.023,-0.133"/>
+
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

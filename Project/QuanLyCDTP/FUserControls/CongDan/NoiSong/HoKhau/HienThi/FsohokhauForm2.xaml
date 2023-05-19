@@ -1,0 +1,96 @@
+﻿<UserControl x:Class="QuanLyCDTP.FsohokhauForm2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+              xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d"  MinWidth="600">
+    <Border BorderThickness="1" BorderBrush="White" Background="#eae8f3" CornerRadius="60">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="27"></RowDefinition>
+                <RowDefinition Height="140"></RowDefinition>
+
+
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="CHỦ HỘ" FontSize="24" Foreground="Red" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold"></TextBlock>
+            <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Họ và tên :  "  FontSize="20"></TextBlock>
+                <TextBlock  x:Name="HoVaTen" Text="Trần Văn A"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Ngày, Tháng, Năm sinh :  "  FontSize="20"></TextBlock>
+                <TextBlock  x:Name="NgayThangNamSinh" Text="11/11/1990"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,26,0">
+                <TextBlock  Text="giới tính :  "  FontSize="20"></TextBlock>
+                <TextBlock  x:Name="GioiTinh" Text="Nam"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Nguyên quán :  "  FontSize="20"></TextBlock>
+                <TextBlock  x:Name="QueQuan" Text="Thanh Hóa"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>
+            <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Dân Tộc :  "  FontSize="20"></TextBlock>
+                <TextBlock  x:Name="DanToc" Text="Kinh"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>
+            <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,26,0">
+                <TextBlock  Text="Quốc tịch :  "  FontSize="20"></TextBlock>
+                <TextBlock  Text="Việt Nam"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>
+            <!--<StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Nghề nghiệp và việc làm :  "  FontSize="20"></TextBlock>
+                <TextBlock  Text="Làm vườn"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>-->
+            <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0">
+                <TextBlock  Text="Nới thường trú :  "  FontSize="20"></TextBlock>
+                <TextBlock  x:Name="ThuongTru" Text="An Giang"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+
+            </StackPanel>
+            
+            <!--<TextBlock Grid.Row="7" Text="nguyễn văn B" FontSize="20" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontWeight="SemiBold" Margin="0,0,100,10"></TextBlock>-->
+
+            <StackPanel Orientation="Vertical" Grid.Row="7" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,25,0">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock  Text="Ngày:  "  FontSize="20"></TextBlock>
+                    <TextBlock  x:Name="Ngay" Text="11"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                    <TextBlock  Text=" ,Tháng:  "  FontSize="20"></TextBlock>
+                    <TextBlock  x:Name="Thang" Text="11"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                    <TextBlock  Text=" ,Năm:  "  FontSize="20"></TextBlock>
+                    <TextBlock  x:Name="Nam" Text="2018"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="-20,0,0,0">
+                    <TextBlock  Text="TRƯỞNG CÔNG AN:  "  FontSize="20"></TextBlock>
+                    <TextBlock  x:Name="TenCanBo" Text="Kiệt"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                </StackPanel>
+                <TextBlock  Text="(ký tên)"  FontSize="20" FontWeight="Light" HorizontalAlignment="Center"></TextBlock>
+            </StackPanel>
+            <Image Source="../../../../../Source/Image/Icon/iconSign.png" Grid.Row="7" HorizontalAlignment="Right" Height="140" Width="150" Opacity="0.7" Panel.ZIndex="-1" Margin="0,20,160,0" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="39.626"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+
+        </Grid>
+    </Border>
+</UserControl>

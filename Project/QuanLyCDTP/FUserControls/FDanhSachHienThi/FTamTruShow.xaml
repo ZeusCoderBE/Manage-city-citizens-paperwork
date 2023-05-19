@@ -1,0 +1,83 @@
+﻿<UserControl x:Class="QuanLyCDTP.FTamTruShow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" 
+             d:DesignHeight="210" d:DesignWidth="800">
+    <Grid x:Name="gridhienthi">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu Background="Transparent" Grid.Row="0" Margin="10,10,50,10">
+            <MenuItem Header="Filter"  Template="{StaticResource Menu_SubMenu_Template2}">
+                <MenuItem.Icon>
+                    <fa:IconImage Icon="Search" Foreground="Black"
+                                              Height="12"></fa:IconImage>
+                </MenuItem.Icon>
+                <MenuItem x:Name="btnLocDiaDiem" Template="{StaticResource Item_combo}"  Header="Lọc Theo Địa Điểm" Click="btnLocDiaDiem_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="Filter" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Menu Background="Transparent" Grid.Row="0" Margin="10,10,50,10" HorizontalAlignment="Right">
+            <MenuItem Header="Sắp xếp" Template="{StaticResource Menu_SubMenu_Template2}">
+                <MenuItem.Icon>
+                    <fa:IconImage Icon="Sort" Foreground="Black"
+                                              Height="12"></fa:IconImage>
+                </MenuItem.Icon>
+                <MenuItem x:Name="btnsxtang" Template="{StaticResource Item_combo}"  Header="Sort A-Z" Click="btnsxtang_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="SortAsc" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="btnsxgiam" Template="{StaticResource Item_combo}" Header="Sort Z-A" Click="btnsxgiam_Click">
+                    <MenuItem.Icon>
+                        <fa:IconImage Icon="SortDesc" Foreground="Black"></fa:IconImage>
+                    </MenuItem.Icon>
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <Border
+                Background="#200F53"
+                CornerRadius="10" 
+                Padding="10" Grid.Row="1">
+            <ListView x:Name="lvTamTru" Background="#200F53"
+                  BorderThickness="0">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="Background" Value="Transparent"/>
+                        <Setter Property="Foreground" Value="#BCBEE0"/>
+                        <Setter Property="Padding" Value="10,0,0,10"/>
+                        <Setter Property="FontFamily" Value="Montserrat"/>
+                        <Setter Property="FontSize" Value="15"/>
+                    </Style>
+
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Mã Số Tờ" Width="70" DisplayMemberBinding="{Binding Masoto}"></GridViewColumn>
+                        <GridViewColumn Header="Họ Tên" Width="150" DisplayMemberBinding="{Binding Hoten}"></GridViewColumn>
+                        <GridViewColumn Header="Ngày Sinh" Width="120" DisplayMemberBinding="{Binding Ngaysinh}"></GridViewColumn>
+                        <GridViewColumn Header="Thường Trú" Width="130" DisplayMemberBinding="{Binding Thuongtru}"></GridViewColumn>
+                        <GridViewColumn Header="Tạm Trú" Width="130" DisplayMemberBinding="{Binding Tamtru}"></GridViewColumn>
+                        <GridViewColumn Header="Chứng Minh Nhân Dân" Width="120" DisplayMemberBinding="{Binding Cmnd}"></GridViewColumn>
+                        <GridViewColumn Header="Lý Do" Width="130" DisplayMemberBinding="{Binding Lydo}"></GridViewColumn>
+                        <GridViewColumn Header="Tên Cán Bộ" Width="150" DisplayMemberBinding="{Binding Tencanbo}"></GridViewColumn>
+                        <GridViewColumn Header="Nơi Đăng Ký" Width="150" DisplayMemberBinding="{Binding Noidangky}"></GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+        <Grid x:Name="hienthi" Grid.Row="0" Margin="-82,-1,450,7" />
+        <Button Grid.Row="2" Style="{StaticResource BottomMenuButton}"  x:Name="btnLoad" Content="ReLoad" Click="btnLoad_Click" Margin="602,15,98,0" Height="30" VerticalAlignment="Top"/>
+        <Button Grid.Row="2" Style="{StaticResource BottomMenuButton}"  x:Name="btnIn" Content="Export File Excel" Click="btnIn_Click" Margin="478,14,222,6" />
+    </Grid>
+</UserControl>

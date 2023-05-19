@@ -1,0 +1,34 @@
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\bin\Debug\WPF_Learning.exe
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\bin\Debug\WPF_Learning.pdb
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\MainWindow.g.cs
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\App.g.cs
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning_MarkupCompile.cache
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning_MarkupCompile.lref
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\MainWindow.baml
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.g.resources
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.Properties.Resources.resources
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.csproj.GenerateResource.cache
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.exe
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.pdb
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\App.baml
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\User Controls\InfoCard.baml
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\User Controls\InfoCard.g.cs
+E:\Hoc_Tap\TuHoc\WPF\WPF Learning new thing\WPF_Learning\WPF_Learning\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\User Controls\InfoCard.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\MainWindow.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\User Controls\InfoCard.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\App.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\App.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\MainWindow.baml
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.csproj.GenerateResource.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\WPF_Learning.csproj.CoreCompileInputs.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\bin\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\bin\Debug\QuanLyCDTP.pdb
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\QuanLyCDTP_MarkupCompile.cache
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\QuanLyCDTP_MarkupCompile.lref
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\QuanLyCDTP.g.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\QuanLyCDTP.Properties.Resources.resources
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\QuanLyCDTP.exe
+E:\Hoc_Tap\3. HOCKI II NAM 2022-2023\Window\Project\WPF_Learning\WPF_Learning\obj\Debug\QuanLyCDTP.pdb

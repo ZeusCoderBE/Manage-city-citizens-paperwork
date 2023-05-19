@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="QuanLyCDTP.FHoaDonThue"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" >
+    <Border  Background="#eae8f3" CornerRadius="60">
+        <Grid x:Name="gridhienthi" Margin="0,0,0,-30">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="35"></RowDefinition>
+                <RowDefinition Height="30"></RowDefinition>
+                <RowDefinition Height="0"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="35"></RowDefinition>
+                <RowDefinition Height="15"></RowDefinition>
+                <RowDefinition Height="5"></RowDefinition>
+                <RowDefinition Height="90"></RowDefinition>
+                <RowDefinition Height="25"></RowDefinition>
+
+
+            </Grid.RowDefinitions>
+            <TextBlock Text="CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" FontSize="20"  VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="DemiBold" Height="26" Width="392"/>
+            <TextBlock Text="Độc lập - Tự do - Hạnh Phúc" HorizontalAlignment="Center" Grid.Row="1" FontWeight="Regular" FontSize="16"  Margin="0,0,0,10" Width="202"></TextBlock>
+            <TextBlock Grid.Row="3" Text="Hoá Đơn Thuế" FontSize="24" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" Height="32" Width="162"></TextBlock>
+            <Image Source="/Source/Window/picture/Logo.png"  Grid.Row="2" HorizontalAlignment="Center" Width="70"/>
+            <StackPanel Grid.Row="4" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="380,0,0,0" Height="28" Width="380">
+                <TextBlock  Text="Mã CCCD:  "  FontSize="20" Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard x:Name="txtcccd" Width="265" />
+            </StackPanel>
+            <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0" Height="28" Width="337">
+                <TextBlock  Text="Mã Hoá Đơn:  "  FontSize="20" Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard x:Name="txtmahd" Height="28" Width="206" KeyDown="txtMaSoTo_KeyDown"></ui:InfoCard>
+            </StackPanel>
+
+
+            <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0" Height="28" Width="376">
+                <TextBlock  Text="Mã Loại Thuế :  " Style="{StaticResource MenuButtonText}" FontSize="20"></TextBlock>
+                <ui:InfoCard x:Name="txtmaloaithue"  Height="28" MinWidth="200" Margin="0,0,20,0" Width="216"/>
+            </StackPanel>
+            <StackPanel Grid.Row="7" Orientation="Horizontal" HorizontalAlignment="Left"  Margin="21,1,0,1" Width="800">
+                <TextBlock  Text="Ngày Lập Hoá Đơn :  "  FontSize="20"  Style="{StaticResource MenuButtonText}" ></TextBlock>
+                <DatePicker   Width="150" Grid.Row="8" Margin="26,0,615,4" x:Name="datengaylap"></DatePicker>
+            </StackPanel>
+            <StackPanel Grid.Row="8" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="26,0,0,0" Height="28" Width="529">
+                <TextBlock  Text="Số Tiền Thuế:  "  FontSize="20" Style="{StaticResource MenuButtonText}"></TextBlock>
+                <ui:InfoCard x:Name="txtsotien" Height="28" MinWidth="400" ></ui:InfoCard>
+            </StackPanel>
+            <StackPanel Orientation="Vertical" Grid.Row="11" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="492,0,0,0" Height="56" Width="283">
+                <StackPanel Orientation="Horizontal" >
+                    <TextBlock  Text="Ngày:  "  FontSize="20"></TextBlock>
+                    <TextBlock x:Name="txblday"  Text="11"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                    <TextBlock  Text=" ,Tháng:  "  FontSize="20"></TextBlock>
+                    <TextBlock x:Name="txblmonth"  Text="11"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                    <TextBlock  Text=" ,Năm:  "  FontSize="20"></TextBlock>
+                    <TextBlock x:Name="txblYears"  Text="2018"  FontSize="20" FontWeight="DemiBold"></TextBlock>
+                </StackPanel>
+            </StackPanel>
+            <Image Source="./Source/Image/Icon/iconSign.png" Grid.Row="11" HorizontalAlignment="Left" Width="150" Opacity="0.7" Panel.ZIndex="-1" Margin="490,0,0,5" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="39.626"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Grid Grid.Row="11" x:Name="Them" Margin="30,10,0,0"  HorizontalAlignment="Left" Width="405">
+                <Button Style="{StaticResource BottomMenuButton}" x:Name="btnaddthue" Click="btnaddthue_Click" Content="Đăng ký" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left"  Width="60" Margin="1,2,0,48" Height="NaN"/>
+                <Button Style="{StaticResource BottomMenuButton}" x:Name="btndeletethue" Click="btndeletethue_Click" Content="Xoá" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left" Width="60" Margin="87,2,0,48" Height="NaN"/>
+                <Button Style="{StaticResource BottomMenuButton}" x:Name="btnXoaNoiDung" Click="btnXoaNoiDung_Click" Content="Tạo Mới" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left"  Width="60" Margin="253,2,0,0" Height="30" VerticalAlignment="Top"/>
+                <Button Style="{StaticResource BottomMenuButton}" x:Name="btnSua" Click="btnSua_Click" Content="Sửa" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left"  Width="60" Margin="167,0,0,48" Height="30" VerticalAlignment="Bottom"/>
+                <Button Style="{StaticResource BottomMenuButton}" x:Name="btnTinhToan" Click="btnTinhToan_Click" Content="Tính Toán" BorderThickness="2" BorderBrush="Black" HorizontalAlignment="Left"  Width="60" Margin="337,0,0,48" Height="30" VerticalAlignment="Bottom"/>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

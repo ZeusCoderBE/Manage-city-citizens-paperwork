@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="QuanLyCDTP.FAccount"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:ui="clr-namespace:QuanLyCDTP"
+             MinHeight="450" MinWidth="800">
+    <Grid>
+        <Grid x:Name="FormAccount">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="ACCOUNT" VerticalAlignment="Center" HorizontalAlignment="Left" FontSize="28" Foreground="{StaticResource color5}" FontWeight="Bold" Margin="30,0,0,0"></TextBlock>
+            <fa:IconImage Icon="User" Height="40" Width="0" HorizontalAlignment="Left" Foreground="{StaticResource color5}" Style="{StaticResource menuButtonIcon}" Margin="176,0,20,5"/>
+            <Grid Grid.Row="1" Margin="0,0,0,-65">
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="500"></RowDefinition>
+                    <RowDefinition Height="130"></RowDefinition>
+                    <RowDefinition Height="63"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="1" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="220"></ColumnDefinition>
+                        <ColumnDefinition Width="10"></ColumnDefinition>
+
+                        <ColumnDefinition Width="220"></ColumnDefinition>
+                        <ColumnDefinition Width="10"></ColumnDefinition>
+
+                        <ColumnDefinition Width="220"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <RadioButton Margin="10" x:Name="btnInfo" Click="btnInfo_Click" Style="{StaticResource menuButtonAccount}" Grid.Column="1" Tag="{StaticResource color9}"
+                                 IsChecked="False">
+                        <StackPanel Orientation="Vertical" Width="200">
+                            <fa:IconImage Icon="Users"  HorizontalAlignment="Center" Style="{StaticResource menuButtonIconAccount}"/>
+                            <TextBlock  Text="Thông tin cá nhân" Style="{StaticResource menuButtonTextAcount}" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </RadioButton>
+
+                    <RadioButton Click="btn_account_Click" Margin="10" Style="{StaticResource menuButtonAccount}" Grid.Column="3" Tag="{StaticResource color6}"
+                                 IsChecked="False">
+                        <StackPanel Orientation="Vertical" Width="200">
+                            <fa:IconImage Icon="Exchange"  HorizontalAlignment="Center" Style="{StaticResource menuButtonIconAccount}"/>
+                            <TextBlock  Text="Chuyển đổi tài khoản" Style="{StaticResource menuButtonTextAcount}" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </RadioButton>
+
+                    <RadioButton Margin="10" Click="btnChange_Click" Style="{StaticResource menuButtonAccount}" Grid.Column="5" Tag="{StaticResource color5}"
+                                 IsChecked="False">
+                        <StackPanel Orientation="Vertical" Width="200">
+                            <fa:IconImage Icon="Adjust"  HorizontalAlignment="Center" Style="{StaticResource menuButtonIconAccount}"/>
+                            <TextBlock Text="Đổi mật khẩu" Style="{StaticResource menuButtonTextAcount}" HorizontalAlignment="Center"/>
+                        </StackPanel>
+                    </RadioButton>
+                </Grid>
+                <Grid x:Name="hienthi" Grid.Row="0"/>
+            </Grid>
+        </Grid>
+        
+    </Grid>
+</UserControl>

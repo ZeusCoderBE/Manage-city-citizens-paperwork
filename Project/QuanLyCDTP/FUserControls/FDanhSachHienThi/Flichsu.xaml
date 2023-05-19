@@ -1,0 +1,79 @@
+﻿<UserControl x:Class="QuanLyCDTP.Flichsu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" MinWidth="910" 
+             >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+
+
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,30,5">
+            <Menu Background="Transparent">
+                <Menu.ItemsPanel>
+
+                    <ItemsPanelTemplate>
+
+                        <VirtualizingStackPanel Orientation="Horizontal" />
+
+                    </ItemsPanelTemplate>
+
+                </Menu.ItemsPanel>
+                <MenuItem Header="Hộ Chiếu" Template="{StaticResource Menu_SubMenu_Template}"  BorderThickness="0" Background="Transparent">
+                    <MenuItem x:Name="btnHoChieu" Template="{StaticResource Item_Template1}" Header=" Hộ Chiếu"  Click="btnHoChieu_Click">
+                        <MenuItem.Icon>
+                            <fa:IconImage Icon="Compass" Foreground="{StaticResource color10 }"></fa:IconImage>
+                        </MenuItem.Icon>
+                        </MenuItem>
+                    <MenuItem x:Name="btnLSDiLai" Template="{StaticResource Item_Template1}" Header="Lịch sử đi lại" Click="btnLSDiLai_Click">
+                        <MenuItem.Icon>
+                            <fa:IconImage Icon="History" Foreground="{StaticResource color6 }"></fa:IconImage>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                   
+                    </MenuItem>
+            </Menu>
+            <Button x:Name="btnKhaiSinh" Style="{StaticResource TopMenuButton}" Content="Khai sinh" Click="btnKhaiSinh_Click">
+                <Button.Triggers>
+                    <EventTrigger RoutedEvent="Button.Click">
+                        
+                    </EventTrigger>
+                </Button.Triggers>
+            </Button>
+            <Button x:Name="btnThue" Style="{StaticResource TopMenuButton}" Content="Thuế" Width="96" Click="btnThue_Click"></Button>
+            <Button x:Name="btnthongtin" Style="{StaticResource TopMenuButton}" Content="Thông Tin Chung" Width="96" Click="btnthongtin_Click"></Button>
+            <Button x:Name="btnHonNhan" Style="{StaticResource TopMenuButton}" Content="Hôn Nhân" Click="btnHonNhan_Click"></Button>
+            <Button x:Name="btnHoKhau" Style="{StaticResource TopMenuButton}" Content="Sổ Hộ Khẩu" Click="btnHoKhau_Click"></Button>
+
+            <Menu Background="Transparent" >
+                <MenuItem Header="Tạm Trú" Template="{StaticResource Menu_SubMenu_Template}">
+                    <MenuItem x:Name="btnTamTru" Template="{StaticResource Item_Template1}"  Header="Tam Trú" Click="btnTamTru_Click">
+                        <MenuItem.Icon>
+                            <fa:IconImage Icon="LifeRing" Foreground="{StaticResource color6 }"></fa:IconImage>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem x:Name="btnLSTamTru" Template="{StaticResource Item_Template1}" Header="Lịch sử tạm trú" Click="btnLSTamTru_Click">
+                        <MenuItem.Icon>
+                            <fa:IconImage Icon="History" Foreground="{StaticResource color4 }"></fa:IconImage>
+                        </MenuItem.Icon>
+
+                    </MenuItem>
+                </MenuItem>
+            </Menu>
+        </StackPanel>
+        <!--Title Menu-->
+        <TextBlock Text="Good Afternoon" FontSize="26" Foreground="{StaticResource color3}" HorizontalAlignment="Left" Margin="50,15,0,0"></TextBlock>
+        <Separator Height="0.8" Margin="30,20,30,0" Background="#46558a" VerticalAlignment="Bottom"></Separator>
+        <TextBlock Grid.Row="1" Text="" FontSize="30"  Foreground="{StaticResource color6}" HorizontalAlignment="Center" FontWeight="Bold" Margin="0,10,0,0" x:Name="info"></TextBlock>
+        <Grid x:Name="gridhienthi" Grid.Row="2">
+        </Grid>
+    </Grid>
+</UserControl>

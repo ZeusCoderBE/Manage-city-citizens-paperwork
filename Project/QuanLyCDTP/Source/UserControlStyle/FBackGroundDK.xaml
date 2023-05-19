@@ -1,0 +1,94 @@
+﻿<UserControl x:Class="QuanLyCDTP.FBackGroundDK"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:QuanLyCDTP"
+             mc:Ignorable="d" 
+             MinHeight="450" MinWidth="800"
+             Background="Transparent"
+             >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"></ColumnDefinition>
+            <ColumnDefinition Width="25"></ColumnDefinition>
+            <ColumnDefinition Width="35"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Border Background="#199ff5"></Border>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+            <Border Grid.Row="0" Background="#f56011"></Border>
+            <Border Grid.Row="1" Background="Yellow"></Border>
+            <Border Grid.Row="2" Background="#15b5f3"></Border>
+            <Border Grid.Row="3" Background="Yellow"></Border>
+            <Border Grid.Row="4" Background="#7511f6"></Border>
+            <Border Grid.Row="5" Background="#0ffa70"></Border>
+            <Border Grid.Row="6" Background="Yellow"></Border>
+            <Border Grid.Row="7" Background="#7511f6"></Border>
+            <Border Grid.Row="8" Background="#15b5f3"></Border>
+            <Border Grid.Row="10" Background="Yellow"></Border>
+            <Border Grid.Row="9" Background="#0ffa70"></Border>
+            <Border Grid.Row="12" Background="#15b5f3"></Border>
+            <Border Grid.Row="13" Background="Yellow"></Border>
+            <Border Grid.Row="14" Background="#7511f6"></Border>
+            <Border Grid.Row="15" Background="#f56011"></Border>
+            <Border Grid.Row="15" Background="#0ffa70"></Border>
+            <Border Grid.Row="11" Background="#7511f6"></Border>
+            <Border Grid.Row="17" Background="#f56011"></Border>
+            <Border Grid.Row="18" Background="Yellow"></Border>
+            <Border Grid.Row="16" Background="Yellow"></Border>
+            <Border Grid.Row="18" Background="#15b5f3"></Border>
+            <Border Grid.Row="19" Background="#f56011"></Border>
+
+
+        </Grid>
+        
+        <Grid Grid.Column="2">
+            <Border Background="#181735"></Border>
+        </Grid>
+        <Grid Grid.Column="3" Background="#181735">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="52*"/>
+                <RowDefinition Height="123*"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Border Background="#181735"></Border>
+            </Grid>
+            <Grid Grid.Row="1" x:Name="thongtin" Background="#181735" Grid.RowSpan="2">
+            </Grid>
+            <Grid Grid.Row="3">
+                <Border Background="#181735"></Border>
+            </Grid>
+        </Grid>
+        <Grid Grid.Column="6">
+            <Border Background="#181735" CornerRadius="0 50 50 0"></Border>
+        </Grid>
+    </Grid>
+</UserControl>
