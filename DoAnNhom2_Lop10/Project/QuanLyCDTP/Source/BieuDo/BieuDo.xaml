@@ -4,6 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:QuanLyCDTP"
+             xmlns:fa="http://schemas.awesome.incremented/wpf/xaml/fontawesome.sharp"
              mc:Ignorable="d" 
              d:DesignHeight="600" d:DesignWidth="800">
     <Grid>
@@ -20,7 +21,24 @@
             <!--<Button Style="{StaticResource TopMenuButton}" Content="Top Menu"></Button>-->
         </StackPanel>
         <!--Title Menu-->
-        <TextBlock Text="Good Afternoon" FontSize="26" Foreground="#0e25ca" HorizontalAlignment="Left" Margin="50,25,0,0"></TextBlock>
+
+
+        <StackPanel Grid.Column="0" x:Name="stp_zoom"
+                                    Orientation="Horizontal"
+                                    VerticalAlignment="Top" Margin="0,10,0,0">
+            <fa:IconImage Icon="AreaChart" 
+                                          Height="20"
+                                          Width="20"
+                                          Foreground="{StaticResource color2}"
+                                          Margin="35,0,10,0"/>
+
+            <TextBlock Text="Biểu Đồ"
+                                       Foreground="{StaticResource color2}"
+                                       FontSize="16"
+                                       FontFamily="Montserrat"
+                                       FontWeight="Medium"
+                                       VerticalAlignment="Center"/>
+        </StackPanel>
         <Separator Height="0.8" Margin="30,20,30,0" Background="#46558a" VerticalAlignment="Bottom"></Separator>
 
         <Grid Grid.Row="1" Margin="10,20,10,20" Name="BieuDoC">
