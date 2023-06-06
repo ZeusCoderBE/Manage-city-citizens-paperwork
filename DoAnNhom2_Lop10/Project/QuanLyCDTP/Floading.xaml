@@ -20,13 +20,14 @@
                 <GradientStop Color="#FF481427" Offset="0.75"/>
             </LinearGradientBrush>
         </Border.Background>
+        
         <Grid >
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
                 <RowDefinition Height="Auto"/>
             </Grid.RowDefinitions>
-
+            
             <ProgressBar x:Name="hienthi" Value="0" Maximum="100" Grid.Row="0" Width="300" Margin="50" HorizontalAlignment="Center" ValueChanged="hienthi_ValueChanged">
                 <ProgressBar.Template>
                     <ControlTemplate TargetType="ProgressBar">

@@ -256,7 +256,7 @@
                                  >
                 <StackPanel Orientation="Horizontal">
                     <fa:IconImage Icon="SignOut" Style="{StaticResource menuButtonIcon}"/>
-                    <TextBlock x:Name="txb_thoat" Text="Thoát" Style="{StaticResource menuButtonText}"/>
+                    <TextBlock x:Name="txb_thoat" Text="Đăng Xuất" Style="{StaticResource menuButtonText}"/>
                 </StackPanel>
             </RadioButton>
         </Grid>
