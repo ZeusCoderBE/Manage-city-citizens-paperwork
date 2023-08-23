@@ -35,5 +35,13 @@ Công nghệ sử dụng:
 
 <img width="623" alt="image" src="https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/5cdb877f-092a-4709-a642-15cf79f27654">
 
+-Màn hình giao diện chính:
+
+
+![image](https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/d1bee599-f311-4f15-a233-4305b432b139)
+
+
+
+
 
 
