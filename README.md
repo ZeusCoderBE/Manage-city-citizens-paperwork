@@ -22,3 +22,10 @@ Công nghệ sử dụng:
 
 +Entity Framework
 
+-Màn hình khởi động:
+-<img width="295" alt="image" src="https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/36aca661-40ee-418d-83f8-796a5534db4f">
+-Màn hình login:
+<img width="623" alt="image" src="https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/5cdb877f-092a-4709-a642-15cf79f27654">
+
+
+
