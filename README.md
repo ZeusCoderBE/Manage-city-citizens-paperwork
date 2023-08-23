@@ -1,12 +1,12 @@
 # ĐỒ Án Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
 
 
-+Đồ Án được thực hiện bởi
++Đồ Án được thực hiện bởi:
 
 -Trần Văn Luân (design the theme)
 
 
--Đặng Nguyễn Quang Huy (function)
+-Đặng Nguyễn Quang Huy (function+Database)
 
 
 -Đỗ Ngọc Chí Công (function)
