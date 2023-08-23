@@ -3,13 +3,13 @@
 
 +Đồ Án được thực hiện bởi:
 
--Trần Văn Luân (design the theme)
+-Trần Văn Luân (Design the theme)
 
 
--Đặng Nguyễn Quang Huy (function+Database)
+-Đặng Nguyễn Quang Huy (Function+Database)
 
 
--Đỗ Ngọc Chí Công (function)
+-Đỗ Ngọc Chí Công (Function)
 
 
 Đồ Án Sử Dụng:
