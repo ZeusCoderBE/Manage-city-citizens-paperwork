@@ -12,7 +12,7 @@
 -Đỗ Ngọc Chí Công (Function)
 
 
-Đồ Án Sử Dụng:
+Công nghệ sử dụng:
 
 +WPF
 
