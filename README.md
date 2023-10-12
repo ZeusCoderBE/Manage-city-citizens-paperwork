@@ -42,7 +42,8 @@ Công nghệ sử dụng:
 -Màn hình giao diện chính:
 
 
-![image](https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/d1bee599-f311-4f15-a233-4305b432b139)
+![image](https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/864edec1-14ae-4d3a-8c27-ad1819346661)
+
 
 
 
