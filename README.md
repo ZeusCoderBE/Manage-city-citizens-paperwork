@@ -25,7 +25,8 @@ Công nghệ sử dụng:
 -Màn hình khởi động:
 
 
--<img width="295" alt="image" src="https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/36aca661-40ee-418d-83f8-796a5534db4f">
+<img width="292" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/3a1df2e2-c221-4901-a39d-7008527a788e">
+
 
 
 
@@ -33,7 +34,8 @@ Công nghệ sử dụng:
 
 
 
-<img width="623" alt="image" src="https://github.com/huydeptrai1/QLCDTPCuaHuy/assets/117000361/5cdb877f-092a-4709-a642-15cf79f27654">
+<img width="594" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/9e9587a1-79ec-49bc-b46d-3247b4801da6">
+
 
 -Màn hình giao diện chính:
 
