@@ -1,4 +1,4 @@
-# ĐỒ Môn Án Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
+<img width="594" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/9c8c7e58-004c-46c5-9ee4-6f839aaf911d"># ĐỒ Môn Án Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
 
 
 +Đồ Án được thực hiện bởi:
@@ -25,7 +25,9 @@ Công nghệ sử dụng:
 -Màn hình khởi động:
 
 
-<img width="292" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/3a1df2e2-c221-4901-a39d-7008527a788e">
+![image](https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/9fb5b56f-cd1a-4680-8a15-530852014cae)
+
+
 
 
 
