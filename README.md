@@ -1,4 +1,4 @@
-<img width="594" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/9c8c7e58-004c-46c5-9ee4-6f839aaf911d"># ĐỒ Môn Án Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
+# ĐỒ Môn Án Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
 
 
 +Đồ Án được thực hiện bởi:
