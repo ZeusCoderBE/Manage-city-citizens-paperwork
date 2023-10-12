@@ -37,7 +37,8 @@ Công nghệ sử dụng:
 
 
 
-<img width="594" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/9e9587a1-79ec-49bc-b46d-3247b4801da6">
+<img width="630" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/10add3f7-41e4-4756-bb44-cdf2bb1245f6">
+
 
 
 -Màn hình giao diện chính:
