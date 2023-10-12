@@ -25,7 +25,8 @@ Công nghệ sử dụng:
 -Màn hình khởi động:
 
 
-![image](https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/9fb5b56f-cd1a-4680-8a15-530852014cae)
+<img width="335" alt="image" src="https://github.com/ZeusCoderBE/Manage-city-citizens-paperwork/assets/117000361/6a338efb-b6d9-405c-8a61-2f38a17e25dc">
+
 
 
 
