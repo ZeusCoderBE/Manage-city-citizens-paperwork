@@ -3,7 +3,7 @@
 ## Project Implemented by:
 
 - Tran Van Luan (Front-End)
-- Dang Nguyen Quang Huy (Back-End: Built Database, Developed Multiple Modules, Contributed to Module Design)**
+- Dang Nguyen Quang Huy (Back-End: Built Database, Developed Multiple Modules, Contributed to Module Design)
 - Do Ngoc Chi Cong (Back-End: Contributed to Module Design)
 
 
