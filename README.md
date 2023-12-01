@@ -1,6 +1,6 @@
 # City Citizen Management of paperwork
 
-+ Project implemented by:
+Project implemented by:
 
 -Tran Van Luan (Front-End)
 
