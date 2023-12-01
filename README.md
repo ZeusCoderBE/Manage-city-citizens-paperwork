@@ -1,17 +1,17 @@
 # City Citizen Management of paperwork
 
-Project implemented by:
+-Project implemented by:
 
--Tran Van Luan (Front-End)
-
-
--Dang Nguyen Quang Huy (Back-End)
++Tran Van Luan (Front-End)
 
 
--Do Ngoc Chi Cong (Back-End)
++Dang Nguyen Quang Huy (Back-End)
 
 
-Technology used:
++Do Ngoc Chi Cong (Back-End)
+
+
+-Technology used:
 
 +WPF
 
