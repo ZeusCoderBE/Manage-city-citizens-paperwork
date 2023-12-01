@@ -1,4 +1,4 @@
-# City Citizen Management of paperwork
+# Manage city citizens' paperwork
 
 -Project implemented by:
 
