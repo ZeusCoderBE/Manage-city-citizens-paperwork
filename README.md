@@ -1,4 +1,4 @@
-# Manage city citizens' paperwork
+# Windows programming to manage city citizens' documents
 
 -Project implemented by:
 
