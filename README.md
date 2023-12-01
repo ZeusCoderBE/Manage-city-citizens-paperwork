@@ -2,9 +2,9 @@
 
 ## Project Implemented by:
 
-- **Tran Van Luan (Front-End)**
-- **Dang Nguyen Quang Huy (Back-End: Built Database, Developed Multiple Modules, Contributed to Module Design)**
-- **Do Ngoc Chi Cong (Back-End: Contributed to Module Design)**
+- Tran Van Luan (Front-End)
+- Dang Nguyen Quang Huy (Back-End: Built Database, Developed Multiple Modules, Contributed to Module Design)**
+- Do Ngoc Chi Cong (Back-End: Contributed to Module Design)
 
 
 ## Technology Used:
@@ -27,8 +27,4 @@
 
 ## Project Overview:
 
-The "Windows Programming to Manage City Citizens' Documents" project is a collaborative effort among front-end and back-end developers. The application is built using WPF for a modern user interface, incorporating Font Awesome for icons, and leveraging ADO.net and Entity Framework for efficient data management.
-
-The project aims to provide a centralized platform for managing city citizens' documents, offering features such as secure login, configuration settings, and a user-friendly interface for citizens and administrators alike.
-
-Feel free to further expand on the specific functionalities, features, or any other relevant information about your project.
+Manage documents of city citizens such as identification cards, passport books, combination papers, temporary residence papers
