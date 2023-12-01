@@ -1,4 +1,4 @@
-# ĐỒ Môn Án Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
+# Lập Trình Windows Quản Lý Công Dân Thành Phố về Giấy Tờ
 
 
 +Đồ Án được thực hiện bởi:
